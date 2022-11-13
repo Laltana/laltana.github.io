@@ -21,10 +21,11 @@ author: Laltana
 
 navbar-links:
   About Me: "aboutme"
+  Sobre el sitio: "sobreelsitio"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
- Sobre el sitio: "sobreelsitio"
+
 
 ################
 # --- Logo --- #
