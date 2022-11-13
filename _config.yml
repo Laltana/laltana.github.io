@@ -20,7 +20,7 @@ author: Laltana
 ###############################################
 
 navbar-links:
-  About Me: "sobremi"
+  Sobre Mi: "sobremi"
   Sobre el sitio: "sobreelsitio"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
