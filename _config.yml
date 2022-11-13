@@ -21,10 +21,10 @@ author: Latltana
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -130,11 +130,11 @@ navbar-text-col: "#183e4b"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#183e4b"
-link-col: "#008AFF"
+link-col: "#d74a49"
 hover-col: "#0085A1"
 footer-col: "#8ba0a4"
-footer-text-col: "#777777"
-footer-link-col: "#183e4b"
+footer-text-col: "#183e4b"
+footer-link-col: "#d74a49"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
