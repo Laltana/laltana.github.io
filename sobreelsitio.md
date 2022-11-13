@@ -11,5 +11,7 @@ Es una experiencia por la que yo he pasado, por eso deseo poder a ayudar a otros
 
 ## Agradecimientos 
  [Las imágenes de este sitio están generadas por AI](https://beta.dreamstudio.ai/dream)
+ [Unsplash por las fotografías](https://unsplash.com/)
  [FreeIcons por el Favicon](https://www.behance.net/freeicons47f6f)
- [Dean Attali por el tema del blog]((https://github.com/daattali)
+ [Dean Attali por el tema del blog](https://github.com/daattali)
+
