@@ -1,16 +1,9 @@
 ---
 layout: page
 title: Sobre el sitio
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ir a la universidad puede no siempre ser una opción debido al costo, distancia o disponibilidad de tiempo, pero eso no significa que sea imposible recibir una educación digna! Gracias al internet es posible resolver este problema de distintas maneras, ya sea con cursos online, bibliotecas gratuitas o videos de clases! Y todo esto puede ser sumamente barato e inclusive gratuito. 
+Mi objetivo es poder proporcionar a personas de bajo poder económico información de carreras que pueden estudiar online o por cuenta propia. 
+Independientemente de la edad que Ud tenga, aquí podrá encontrar información que le servirá para poder decidir qué, cómo y dónde estudiar. 
+Es una experiencia por la que yo he pasado, por eso deseo poder a ayudar a otros.
