@@ -9,7 +9,7 @@ Mi objetivo es poder proporcionar a personas de bajo poder económico informaci�
 Independientemente de la edad que Ud tenga, aquí podrá encontrar información que le servirá para poder decidir qué, cómo y dónde estudiar. 
 Es una experiencia por la que yo he pasado, por eso deseo poder a ayudar a otros.
 
-##Agradecimientos 
+## Agradecimientos 
  [Las imágenes de este sitio están generadas por AI](https://beta.dreamstudio.ai/dream)
  [FreeIcons por el Favicon](https://www.behance.net/freeicons47f6f)
  [Dean Attali por el tema del blog]((https://github.com/daattali)
