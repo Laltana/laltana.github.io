@@ -19,7 +19,7 @@ Estos cursos tienen el mismo alto valor que aquellos cursos con etiquetas de pre
 3. [Gestión de proyectos](https://es.coursera.org/professional-certificates/gestion-de-proyectos-de-google)
 4. [Soporte de Tecnologías de la Información](https://www.coursera.org/professional-certificates/soporte-de-tecnologias-de-informacion-google)
 ### Harvard
-1, [ Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) - Inglés
+1. [ Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) - Inglés
 ### FreeCodeCamp
 
 1. [Certificación Diseño Web Responsivo](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design) 
@@ -37,6 +37,7 @@ Estos cursos tienen el mismo alto valor que aquellos cursos con etiquetas de pre
 ### Coursera y Udemy
 
 (Demasiados para hacer una lista)
+
 [Coursera](https://www.coursera.org) y [Udemy](https://www.udemy.com/?locale=es_ES&persist_locale=) ofrecen sus cursos gratis y la posibilidad de pedir apoyo financiero. En mi experiencia, nunca me han negado la beca. Lo único que se necesita es escribir una carta de presentación explicando por qué no puede pagar y qué busca lograr con el certificado y lo aprendido del curso. Sea honesto, y muy probablemente Ud también reciba este apoyo. Estos sitios son muy útiles ya que ofrecen cursos en varios idiomas, lo cual es difícil de encontrar en otros sitios. Además, tienen un extensivo catalogo! Coursera y Udemy poseén certificados en muchas áreas, como educación, medicina, etc.
 
 Estos son sólo algunos de los sitios que ofrecen certificaciones gratuitas, hay muchos más. Me enfoqué en los más populares. 
