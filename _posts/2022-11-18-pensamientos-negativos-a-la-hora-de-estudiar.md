@@ -22,7 +22,7 @@ Finalmente, tiene que aceptar que es normal tener pensamientos negativos, y debe
 
 ### Aquí hay unos consejos de cómo manejar los pensamientos negativos:
     • Realiza una rutina regular de yoga o meditación.
-    • Céntrate en lo positivo: piensa qué vas a conseguir aprendiendo, o imagina cómo ser capaz de llevar tus estudios a nuevo nivel.
+    • Se positivo: piensa qué vas a conseguir aprendiendo, o imagina cómo ser capaz de llevar tus estudios a nuevo nivel.
     • Haz ejercicio o un paseo para aclarar la mente.
     • Habla con alguien del tema 
     
