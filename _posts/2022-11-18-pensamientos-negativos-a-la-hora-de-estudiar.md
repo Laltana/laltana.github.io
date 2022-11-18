@@ -17,8 +17,8 @@ Los pensamientos negativos tienen el poder de arrastrarnos hacia abajo y hacer q
     • "No entiendo nada de lo que estoy estudiando".
     • "Estoy muy aburrido del material que tengo que estudiar".
       
-Para lidiar con pensamientos negativos a la hora de estudiar, lo primero que debes hacer es identifies y analices los pensamientos negativos. Luego, piensa en las diferentes formas que puedas utilizar para aliviar esos pensamientos negativos, por ejemplo, haciendo tiempo para ti mismo, y practicando el autocuidado.  
-Finalmente, tienes que darte cuenta de que es normal tener pensamientos negativos, y debes aprender a ser más gentil contigo mismo para evitar que esos pensamientos te agobien durante todo el día. 
+Para lidiar con pensamientos negativos a la hora de estudiar, lo primero que debes hacer es identificar y analizar los pensamientos. Luego, piense en las diferentes formas que puede utilizar para aliviar esos pensamientos, por ejemplo, haciendo tiempo para si mismo, y practicando el autocuidado.  
+Finalmente, tiene que aceptar que es normal tener pensamientos negativos, y debe aprender a ser más gentil consigo mismo para evitar que esos pensamientos le agobien durante todo el día. 
 
 ### Aquí hay unos consejos de cómo manejar los pensamientos negativos:
     • Realiza una rutina regular de yoga o meditación.
