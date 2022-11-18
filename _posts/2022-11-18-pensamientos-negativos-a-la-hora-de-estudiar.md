@@ -25,7 +25,7 @@ Finalmente, tienes que darte cuenta de que es normal tener pensamientos negativo
     • Céntrate en lo positivo: piensa qué vas a conseguir aprendiendo, o imagina cómo ser capaz de llevar tus estudios a nuevo nivel.
     • Haz ejercicio o un paseo para aclarar la mente.
     • Habla con alguien del tema 
-    • 
+    
 A menudo, los pensamientos negativos están originados por una mala experiencia pasada, por lo que es muy importante no dejarse arrastrar por las malas experiencias y tener fe en uno mismo. Es importante buscar ayuda cuando se sienta desanimado y triste, y no es necesario cargar el peso de sus problemas usted solo.  
 Recuerde pedir ayuda a alguien de su confianza y abrirse a los que le rodean. No dude en buscar ayuda profesional si lo necesita.   
 No tenga miedo de expresarse ni de pedir ayuda si es necesario, la clave del éxito es no rendirse nunca. Confíe en sus habilidades y en si mismo/a. No dude en que puede superarlo!
