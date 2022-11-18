@@ -7,7 +7,7 @@ tags: [emociones, frustracion, problemas al estudiar]
 ---
 
 Los pensamientos negativos son en realidad pensamientos que hacen que uno se sienta insatisfecho con el enfoque de estudio, o pensamientos que interfieren con la capacidad de estudiar y distraen la atención.  
-Mantén en mente que es normal tener pensamientos negativos a veces. Sin embargo, debes tener en tu mente que estos pensamientos no te controlan.  
+Mantén en mente que es normal tener pensamientos negativos a veces. Sin embargo, debes tener en mente que estos pensamientos no te controlan.  
 Los pensamientos negativos tienen el poder de arrastrarnos hacia abajo y hacer que nos preocupemos mucho.  
 ### Estos son algunos de los tipos de pensamientos negativos que los estudiantes pueden experimentar al estudiar:  
     • "No me está yendo bien en esta prueba".
